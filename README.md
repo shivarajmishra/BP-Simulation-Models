@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the data, model code, and results for:
+This repository contains the data, PIF structure, and results for:
 
 **Mishra SR, Bam K, Acharya B, Acharya K, Bhandari B, Satheesh G, Schutte A.**  
 *Simulating health gains from achieving optimal blood pressure control in Nepal: A rapid review and life-table analysis.*  
