@@ -1,4 +1,4 @@
-# Simulating Health Gains from Achieving Optimal Blood Pressure Control in Nepal
+# Simulating Health Gains from Achieving Optimal Blood Pressure Control
 
 > A rapid review of simulation models and a proportional multistate lifetable analysis estimating population health gains under three systolic blood pressure control targets in Nepal.
 
