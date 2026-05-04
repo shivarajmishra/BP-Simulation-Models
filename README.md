@@ -20,7 +20,7 @@ The study has two components:
 
 1. **Rapid review** — a scoping review of 39 published simulation models estimating population health gains from blood pressure (BP) interventions, mapping model types, parameterisation approaches, outcomes reported, and gaps in the evidence base.
 
-2. **Lifetable modelling** — a lifetable modelling estimating health-adjusted life years (HALYs) gained from achieving optimal BP control in the adult Nepalese population in 2023, under three progressively intensive systolic BP (SBP) control targets compared with a business-as-usual (BAU) scenario.
+2. **Lifetable modelling** — estimating health-adjusted life years (HALYs) gained from achieving optimal BP control in the adult Nepalese population in 2023, under three progressively intensive systolic BP (SBP) control targets compared with a business-as-usual (BAU) scenario.
 
 ---
 
