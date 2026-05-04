@@ -57,9 +57,9 @@ The study has two components:
 
 ## Model Description
 
-### Proportional Multistate Lifetable (PMSLT)
+### Lifetable modelling
 
-The PMSLT is a macro-simulation model that simultaneously simulates sex-stratified cohorts of the Nepalese population forward in time from 2023, tracking disease incidence, mortality, and HALYs under counterfactual policy scenarios. It is implemented in Python 3.9.5 and run with 2,000 Monte Carlo iterations to propagate uncertainty across all input parameters.
+We used a well-established lifetable modelling using sex-stratified cohorts of the Nepalese population forward in time from 2023, tracking disease incidence, mortality, and HALYs under counterfactual policy scenarios. It is implemented in Python 3.9.5 and run with 2,000 Monte Carlo iterations to propagate uncertainty across all input parameters.
 
 **Five BP-associated diseases are modelled simultaneously:**
 - Ischaemic heart disease
