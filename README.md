@@ -1,4 +1,4 @@
-# Simulating Health Gains from Achieving Optimal Blood Pressure Control in Nepal
+# Simulating Health Gains from Achieving Optimal Blood Pressure Control
 
 > A rapid review of simulation models and a proportional multistate lifetable analysis estimating population health gains under three systolic blood pressure control targets in Nepal.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the data, model code, and results for:
+This repository contains the data, PIF structure, and results for:
 
 **Mishra SR, Bam K, Acharya B, Acharya K, Bhandari B, Satheesh G, Schutte A.**  
 *Simulating health gains from achieving optimal blood pressure control in Nepal: A rapid review and life-table analysis.*  
@@ -119,51 +119,6 @@ Full parameter details and sources are in `data/processed/bau_parameters.csv` an
 | Nepal Statistics Office 2025 | National population estimates by age and sex for 2023 | [cbs.gov.np](https://cbs.gov.np) — public |
 
 > **Note:** SBP data from NDHS 2022 were measured using a standardised three-reading clinical protocol during household survey visits. Population-level model inputs are not affected by the single-occasion measurement limitation.
-
----
-
-## Reproducing the Analysis
-
-### Requirements
-
-```
-Python >= 3.9.5
-numpy
-pandas
-scipy
-matplotlib
-seaborn
-jupyter
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Running the model
-
-```bash
-# Run the primary scenario (SBP <140 mmHg) with 2,000 Monte Carlo iterations
-python model/pmslt_nepal.py --scenario standard --iterations 2000 --discount 0.03
-
-# Run all three scenarios
-python model/pmslt_nepal.py --scenario all --iterations 2000 --discount 0.03
-
-# Run undiscounted
-python model/pmslt_nepal.py --scenario all --iterations 2000 --discount 0.00
-```
-
-Or step through the analysis interactively:
-
-```bash
-jupyter notebook notebooks/03_pmslt_run.ipynb
-```
-
-### Expected runtime
-
-A single scenario with 2,000 Monte Carlo iterations runs in approximately 8–12 minutes on a standard laptop (16 GB RAM, 8-core CPU). All three scenarios together take approximately 25–35 minutes.
 
 ---
 
