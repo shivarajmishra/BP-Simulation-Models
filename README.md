@@ -12,8 +12,8 @@
 
 This repository contains the data, PIF structure, and results for:
 
-**Mishra SR, Bam K, Acharya B, Acharya K, Bhandari B, Satheesh G, Schutte A.**  
-*Simulating health gains from achieving optimal blood pressure control in Nepal: A rapid review and life-table analysis.*  
+**Shiva Raj Mishra, Kiran Bam, Baburam Acharya, Kiran Acharya, Buna Bhandari, Gautam Satheesh, Bipin Adhikari, Daniel Parker, Dinesh Neupane, Niamh Chapman, Leopold Aminde, Alta Schutte**  
+*Estimating health gains from achieving optimal blood pressure control in Nepal: A rapid review and life-table analysis.*  
 Preregistration: [https://osf.io/4wyqp](https://osf.io/4wyqp)
 
 The study has two components:
@@ -180,6 +180,11 @@ It is also directly related to the global hypertension capacity analysis:
 | Kiran Acharya | New ERA, Kathmandu |
 | Buna Bhandari | Indiana University South Bend |
 | Gautam Satheesh | University of Sydney |
+| Bipin Adhikari | Mahidol-Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand |
+| Daniel Parker | Department of Population Health & Disease Prevention, University of California Irvine, CA, United States |
+| Dinesh Neupane | Welch Center for Prevention, Epidemiology and Clinical Research, Johns Hopkins University|
+| Niamh Chapman |School of Health Sciences, Faculty of Medicine and Health, University of Sydney, Sydney, Australia|
+| Leopold Aminde | Public Health & Economics Modelling Group, School of Medicine and Dentistry Griffith University Gold Coast Australia |
 | Aletta Schutte | The George Institute for Global Health; UNSW Sydney |
 
 **Correspondence:** Dr Shiva Raj Mishra — Liverpool School of Medicine, Western Sydney University
