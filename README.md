@@ -159,17 +159,6 @@ If you use this code or data, please cite:
 
 ---
 
-## Related Work
-
-This model extends the PMSLT framework previously applied by the team to:
-- Cold housing eradication in Australia (Mishra et al., *Social Science & Medicine*, 2023)
-- Optimal BMI in Australia (Bohora, Mishra et al., *Lancet Regional Health — Western Pacific*, 2024)
-
-It is also directly related to the global hypertension capacity analysis:
-- Mishra et al. Bridging hypertension care shortfalls between provider capacity and patient needs: a pooled analysis from 199 countries. *Hypertension*, 2025.
-
----
-
 ## Authors and Affiliations
 
 | Author | Affiliation |
